@@ -1,13 +1,11 @@
 #
 # Futebol Pong project
-`This is a project from a Pygame Udemy course`
-<br>
-[Link to the udemy course page](https://www.udemy.com/course/python-pygame-e-gdscript-para-jogos/)
+### This is a project from a Pygame Udemy course</color>
+### [Link to the udemy course page](https://www.udemy.com/course/python-pygame-e-gdscript-para-jogos/)
 #
 # Requirements
-`Python 3.10`
-<br>
-`Pygame` 
+### `Python 3.10`
+### `Pygame` 
 #
 # Install
 
